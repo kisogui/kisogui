@@ -19,5 +19,5 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 </br>
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia e programação, me desenvolver e melhorar é o foco!
 
