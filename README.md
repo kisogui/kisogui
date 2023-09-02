@@ -2,9 +2,11 @@
 ### Eae! Eu sou o Guilherme Quirino 🤙
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
-
-![Kisogui GitHub stats](https://github-readme-stats.vercel.app/api?username=kisogui&show_icons=true&theme=react&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisogui&layout=compact)
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=kisogui&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisogui&layout=compact&langs_count=16&theme=react"/>
+</div>
+<br>
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
