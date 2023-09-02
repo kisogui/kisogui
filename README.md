@@ -3,8 +3,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 
-![Kisogui GitHub stats](https://github-readme-stats.vercel.app/api?username=kisogui&show_icons=true&theme=dracula&count_private=true)
-
+![Kisogui GitHub stats](https://github-readme-stats.vercel.app/api?username=kisogui&show_icons=true&theme=dracula&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisogui&layout=donut)](https://github.com/kisogui/github-readme-stats)
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
