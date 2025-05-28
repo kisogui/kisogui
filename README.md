@@ -27,20 +27,17 @@
 
 ---
 
-### 📁 Projetos em Destaque
+### 📁 Projeto em Destaque
 
-- [**Pagina-Web-HTML-CSS-Moderno**](https://github.com/kisogui/Pagina-Web-HTML-CSS-Moderno)  
-  💡 Projeto de página moderna com HTML e CSS (Flexbox, Grid e responsividade)
-
-- [**Portfolio**](https://github.com/kisogui/portfolio)  
-  🖼️ Meu portfólio pessoal com HTML + CSS baseado nos cursos da Alura
+- [**Portfolio**](https://github.com/kisogui/Portfolio_upgrade)  
+  🖼️ Meu portfólio pessoal com HTML + CSS (Flexbox, Grid e responsividade)
 
 ---
 
 ### 📫 Sobre mim
 
 🎓 Estudante na Universidade Veiga de Almeida (Rio de Janeiro)  
-🌱 Aprendendo: JavaScript, React e Python  
+🌱 Aprendendo: JavaScript & C# .NET  
 🎯 Objetivo: Me tornar um desenvolvedor full-stack
 
 ---
