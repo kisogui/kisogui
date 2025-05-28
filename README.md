@@ -3,6 +3,14 @@
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kisogui&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisogui&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
 ### 🔧 Minhas Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,dotnet,csharp" />
@@ -18,14 +26,6 @@
   <a href="https://discord.gg/seulink" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/guilhermesq-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kisogui&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisogui&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ---
