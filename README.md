@@ -1,7 +1,4 @@
 <h1 align="center">Eae! Eu sou o Guilherme Quirino 👋</h1>
-<p align="center">💻 Cursando Ciências da Computação | 🎯 Viciado em aprender!</p>
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
