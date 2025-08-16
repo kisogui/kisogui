@@ -33,7 +33,7 @@
 
 ### 📫 Sobre mim
 
-🎓 Estudante na Universidade Veiga de Almeida (Rio de Janeiro)  
+🎓 Estudante no Centro Universitário IBMR (Rio de Janeiro)  
 🌱 Aprendendo: JavaScript & C# .NET  
 🎯 Objetivo: Me tornar um desenvolvedor full-stack
 
