@@ -10,7 +10,7 @@
 
 ### 🔧 Minhas Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,sqlite,dotnet,csharp" />
+  <img src="https://skillicons.dev/icons?i=python,docker,mysql,dotnet,csharp" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 ### 📫 Sobre mim
 
 🎓 Estudante no Centro Universitário IBMR (Rio de Janeiro)  
-🌱 Aprendendo: Python, C# .NET e Docker  
+🌱 Aprendendo: Python, C# .NET, Docker e MySQL  
 🎯 Objetivo: Me tornar um desenvolvedor full-stack
 
 ---
