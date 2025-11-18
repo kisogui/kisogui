@@ -10,7 +10,7 @@
 
 ### 🔧 Minhas Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,dotnet,csharp" />
+  <img src="https://skillicons.dev/icons?i=python,docker,sqlite,dotnet,csharp" />
 </p>
 
 ---
@@ -34,12 +34,12 @@
 ### 📫 Sobre mim
 
 🎓 Estudante no Centro Universitário IBMR (Rio de Janeiro)  
-🌱 Aprendendo: JavaScript & C# .NET  
+🌱 Aprendendo: Python, C# .NET e Docker  
 🎯 Objetivo: Me tornar um desenvolvedor full-stack
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=380&lines=Bem-vindo+ao+meu+GitHub!;SSinta-se+à+vontade+para+explorar!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=380&lines=Bem-vindo+ao+meu+GitHub!;Sinta-se+à+vontade+para+explorar!" />
 </div>
 
