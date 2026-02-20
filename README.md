@@ -5,7 +5,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kisogui&show_icons=true&theme=tokyonight" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisogui&layout=compact&theme=tokyonight" height="180em"/>
 </p>
-
+<p align="center">
+  <img src="https://kisogui.github.io/galaxy-profile/" />
+</p>
 ---
 
 ### 🔧 Minhas Skills
